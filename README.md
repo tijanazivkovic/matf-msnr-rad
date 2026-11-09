@@ -1,2 +1,4 @@
-# matf-msnr-rad
-Repozitorijum namenjen izradi seminarskog rada na predmetu Metodologija stručnog i naučnog rada.
+### Beleškice
+- Pripremiti finalnu verziju ankete.
+- Izmoliti profesorku mejlom za pregled pre puštanja ankete.
+- Proveriti da li je verzija LaTeX šablona na sajtu predmeta validna.
